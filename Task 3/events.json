@@ -1,0 +1,74 @@
+[
+    {
+        "year":"2018",
+        "title":"Decided to learn python",
+        "description":"As it was high time I decided to learn a language.",
+        "category":"Decision",
+        "imageURL": "https://via.placeholder.com/150"        
+
+
+    },
+    {
+        "year":"2019",
+        "title":"Basics of python",
+        "description":"Here I learnt the basics of python.",
+        "category":"Learning",
+        "imageURL": "https://via.placeholder.com/150"        
+
+
+    },
+    {
+        "year":"2020",
+        "title":"Libraries in python",
+        "description":"I got exposure to the strong libraries in python.",
+        "category":"Learning",
+        "imageURL": "https://via.placeholder.com/150"        
+
+
+    },
+    {
+        "year":"2021",
+        "title":"Imp topics",
+        "description":"Learning important topics in python.",
+        "category":"Learning",
+        "imageURL": "https://via.placeholder.com/150"        
+
+
+    },
+    {
+        "year":"2022",
+        "title":"Built a chatbot",
+        "description":"I built a chatbot which answers basic questions.",
+        "category":"Project",
+        "imageURL": "https://via.placeholder.com/150"        
+
+
+    },
+    {
+        "year":"2023",
+        "title":"IoT Smart Lock",
+        "description":"I had also tried to build a IoT based locking system .",
+        "category":"Project",
+        "imageURL": "https://via.placeholder.com/150"        
+
+
+    },
+    {
+        "year":"2024",
+        "title":"Learning Web development",
+        "description":"I thought of learning frontend also.",
+        "category":"Learning",
+        "imageURL": "https://via.placeholder.com/150"        
+
+
+    },
+    {
+        "year":"2025",
+        "title":"My first website",
+        "description":"Built my first website.",
+        "category":"Project",
+        "imageURL": "https://via.placeholder.com/150"        
+
+
+    }
+]
