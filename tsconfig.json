@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                  // Modern JavaScript
+    "module": "ES6",                  // Use ES modules
+    "strict": true,                   // Enable strict type checking
+    "outDir": "./dist",               // Compiled JS goes here
+    "rootDir": "./src",               // Source TS files live here
+    "esModuleInterop": true           // Allows default imports from CommonJS
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
